@@ -179,4 +179,8 @@ li img {
     body {
         font-size: 17px;
     }
+
+    .cta:hover{
+        background: #149a60;
+    }
 }
